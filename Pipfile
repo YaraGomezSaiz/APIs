@@ -17,6 +17,8 @@ flask-cors = "*"
 gunicorn = "*"
 cloudinary = "*"
 flask-admin = "*"
+requests = "*"
+pycurl = "*"
 
 [requires]
 python_version = "3.8"
